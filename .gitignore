@@ -2,10 +2,15 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-# Visual Studio
-.vs/
 
-# Build output
+# Visual Studio temporary files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output directories
 [Bb]in/
 [Oo]bj/
 [Dd]ebug/
@@ -15,9 +20,19 @@ x86/
 
 # Compiled files
 *.obj
+*.exe
+*.dll
 *.ilk
 *.pdb
 *.idb
-*.tlog
+*.tlog/
 *.log
-*.exe
+
+# IntelliSense database
+ipch/
+*.VC.db
+*.VC.VC.opendb
+
+# Visual Studio cache
+*.cache
+
