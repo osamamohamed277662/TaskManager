@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{8CE628A4-5353-06C0-2E77-E08D2FDDB5D8}</ProjectGuid>
+    <ProjectGuid>{FBC4E5A6-B76C-4CC8-B9EC-8FED6A857CFD}</ProjectGuid>
     <RootNamespace>TaskManager</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
